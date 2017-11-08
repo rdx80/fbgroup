@@ -4,7 +4,7 @@ Ett enkelt logsystem som skriver ut till en textfil.
 
 går att stänga av utskrift till fil i "const.h"
 
-se exempel i main.cpp
+se exempel i Exempel.cpp
 
 Skriven av Andreas Gustafsson (rdx80@icloud.com)
 
